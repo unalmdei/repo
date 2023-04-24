@@ -32,3 +32,5 @@ JUGANDO CON CHATGPT
 
 4. Calculadora de propina: Crear un programa que calcule la propina adecuada para una cuenta de restaurante, teniendo en cuenta el porcentaje de propina deseado y el número de personas que van a dividir la cuenta.
 1.Crear un programa que cuente la cantidad de letras "a" en un texto ingresado por el usuario.
+
+PROBANDO PROBANDO
